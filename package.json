@@ -1,5 +1,5 @@
 {
-  "name": "@contentstack/ui-extensions-sdk",
+  "name": "@aladrach/ui-extensions-sdk",
   "version": "2.2.3",
   "description": "The Extensions SDK allows you to extend Contentstack’s UI by helping you create Custom Fields, Custom Widgets, and Dashboard Widgets.",
   "main": "dist/ui-extension-sdk.js",
